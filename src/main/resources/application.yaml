@@ -1,0 +1,3 @@
+logging:
+  file:
+    name: src/main/java/ru/gb/homework_simple/Log/LogApp.log
